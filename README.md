@@ -1,5 +1,5 @@
 # sac7160
-[![sac7160's GitHub stats](https://github-readme-stats.vercel.app/api?username=sac7160&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![sac7160's GitHub stats](https://github-readme-stats.vercel.app/api?username=sac7160&show_icons=true&border_color=)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sac7160)](https://solved.ac/sac7160/)
 <!--
 **sac7160/sac7160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
