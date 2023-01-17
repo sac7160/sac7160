@@ -3,6 +3,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sac7160)](https://solved.ac/sac7160/)
 
 
+***
+
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11183223
 <!--
 **sac7160/sac7160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
