@@ -5,7 +5,6 @@
 
 ***
 
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11183223
 <!--
 **sac7160/sac7160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
