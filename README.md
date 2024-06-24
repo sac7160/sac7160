@@ -1,7 +1,5 @@
 # sac7160
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sac7160)](https://solved.ac/sac7160/)
-
 
 ***
 
